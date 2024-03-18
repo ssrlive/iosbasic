@@ -1,0 +1,36 @@
+---
+BasedOnStyle: WebKit
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Custom
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+ColumnLimit: 120
+AccessModifierOffset: -4
+PointerAlignment: Left
+AlignTrailingComments: true
+KeepEmptyLinesAtTheStartOfBlocks: false
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+PointerBindsToType: false
+SpacesBeforeTrailingComments: 1
+TabWidth: 4
+BraceWrapping:
+  AfterExternBlock: true
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+  SplitEmptyNamespace: true
+  AfterClass:      false
+  AfterControlStatement: false
+  AfterEnum:       false
+  AfterFunction:   false
+  AfterNamespace:  false
+  AfterObjCDeclaration: false
+  AfterStruct:     false
+  AfterUnion:      false
+  BeforeCatch:     false
+  BeforeElse:      false
+  IndentBraces:    false
+
+...
+
